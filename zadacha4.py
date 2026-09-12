@@ -6,4 +6,4 @@ try:
 except IndexError:
     print('такого индекса в списке нет')
 except ValueError:
-    print('int only')
+    print('только число')
